@@ -7,7 +7,7 @@ You may assume that each input would have exactly one solution, and you may not 
 import java.util.HashMap;
 import java.util.Map;
 
-class Solution {
+class Problem1 {
 
     public static void main(String[] args) {
         int[] arr = new int[]{2,7,11,15};
